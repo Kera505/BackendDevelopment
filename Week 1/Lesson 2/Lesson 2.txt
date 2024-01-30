@@ -1,0 +1,24 @@
+C# Syntax :
+
+https://www.w3schools.com/cs/cs_syntax.php
+
+C# Output:
+
+https://www.w3schools.com/cs/cs_output.php
+
+C# User Input:
+
+https://www.w3schools.com/cs/cs_user_input.php
+
+C# - Data Types:
+
+https://www.tutorialspoint.com/csharp/csharp_data_types.htm
+
+https://www.w3schools.com/cs/cs_data_types.php
+
+C# Variables:
+
+https://www.w3schools.com/cs/cs_variables.php
+
+
+and github and gitbash configurations.
