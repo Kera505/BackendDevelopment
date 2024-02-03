@@ -1,0 +1,1 @@
+salam yaxsi sen necesen?
