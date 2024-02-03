@@ -1,0 +1,7 @@
+C:\Users\kerem\source\repos\Lesson 2 Project\Lesson 2 Project\bin\Debug\Lesson 2 Project.exe.config
+C:\Users\kerem\source\repos\Lesson 2 Project\Lesson 2 Project\bin\Debug\Lesson 2 Project.exe
+C:\Users\kerem\source\repos\Lesson 2 Project\Lesson 2 Project\bin\Debug\Lesson 2 Project.pdb
+C:\Users\kerem\source\repos\Lesson 2 Project\Lesson 2 Project\obj\Debug\Lesson 2 Project.csproj.AssemblyReference.cache
+C:\Users\kerem\source\repos\Lesson 2 Project\Lesson 2 Project\obj\Debug\Lesson 2 Project.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\Lesson 2 Project\Lesson 2 Project\obj\Debug\Lesson 2 Project.exe
+C:\Users\kerem\source\repos\Lesson 2 Project\Lesson 2 Project\obj\Debug\Lesson 2 Project.pdb
