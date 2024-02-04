@@ -1,0 +1,7 @@
+C:\Users\kerem\source\repos\Terminal Calculator WL\Terminal Calculator WL\bin\Debug\Terminal Calculator WL.exe.config
+C:\Users\kerem\source\repos\Terminal Calculator WL\Terminal Calculator WL\bin\Debug\Terminal Calculator WL.exe
+C:\Users\kerem\source\repos\Terminal Calculator WL\Terminal Calculator WL\bin\Debug\Terminal Calculator WL.pdb
+C:\Users\kerem\source\repos\Terminal Calculator WL\Terminal Calculator WL\obj\Debug\Terminal Calculator WL.csproj.AssemblyReference.cache
+C:\Users\kerem\source\repos\Terminal Calculator WL\Terminal Calculator WL\obj\Debug\Terminal Calculator WL.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\Terminal Calculator WL\Terminal Calculator WL\obj\Debug\Terminal Calculator WL.exe
+C:\Users\kerem\source\repos\Terminal Calculator WL\Terminal Calculator WL\obj\Debug\Terminal Calculator WL.pdb
