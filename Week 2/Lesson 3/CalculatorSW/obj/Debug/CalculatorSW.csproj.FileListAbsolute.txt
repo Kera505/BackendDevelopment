@@ -1,0 +1,7 @@
+C:\Users\kerem\source\repos\CalculatorSW\CalculatorSW\bin\Debug\CalculatorSW.exe.config
+C:\Users\kerem\source\repos\CalculatorSW\CalculatorSW\bin\Debug\CalculatorSW.exe
+C:\Users\kerem\source\repos\CalculatorSW\CalculatorSW\bin\Debug\CalculatorSW.pdb
+C:\Users\kerem\source\repos\CalculatorSW\CalculatorSW\obj\Debug\CalculatorSW.csproj.AssemblyReference.cache
+C:\Users\kerem\source\repos\CalculatorSW\CalculatorSW\obj\Debug\CalculatorSW.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\CalculatorSW\CalculatorSW\obj\Debug\CalculatorSW.exe
+C:\Users\kerem\source\repos\CalculatorSW\CalculatorSW\obj\Debug\CalculatorSW.pdb
