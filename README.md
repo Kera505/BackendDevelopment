@@ -1,5 +1,4 @@
-
-![banner] (https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9199d0e-a3d1-4877-a998-487d5a5bb6d4_480x270.gif)
+![banner](https://i.gifer.com/embedded/download/9kA5.gif)
 
 # Journey of Learning the C# Programming Language
 
@@ -37,3 +36,5 @@ This learning process was a positive experience, resulting from the combination 
 Presently, I am developing my projects using the C# language and staying updated on new developments in this language. Continuing my journey, I aim to become a more robust and skilled developer with the knowledge gained from both my individual efforts and the course.
 
 If you are deciding to learn a programming language, I recommend benefiting from both your own efforts and structured courses. Combining these two methods can make your learning process more effective.
+
+![banner](https://i.gifer.com/embedded/download/BFCP.gif)
