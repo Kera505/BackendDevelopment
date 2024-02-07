@@ -1,0 +1,7 @@
+C:\Users\kerem\source\repos\Grade Calculator SW\Grade Calculator SW\bin\Debug\Grade Calculator SW.exe.config
+C:\Users\kerem\source\repos\Grade Calculator SW\Grade Calculator SW\bin\Debug\Grade Calculator SW.exe
+C:\Users\kerem\source\repos\Grade Calculator SW\Grade Calculator SW\bin\Debug\Grade Calculator SW.pdb
+C:\Users\kerem\source\repos\Grade Calculator SW\Grade Calculator SW\obj\Debug\Grade Calculator SW.csproj.AssemblyReference.cache
+C:\Users\kerem\source\repos\Grade Calculator SW\Grade Calculator SW\obj\Debug\Grade Calculator SW.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\Grade Calculator SW\Grade Calculator SW\obj\Debug\Grade Calculator SW.exe
+C:\Users\kerem\source\repos\Grade Calculator SW\Grade Calculator SW\obj\Debug\Grade Calculator SW.pdb
