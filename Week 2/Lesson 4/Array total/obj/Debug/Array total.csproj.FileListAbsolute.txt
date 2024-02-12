@@ -1,0 +1,7 @@
+C:\Users\kerem\source\repos\Array total\Array total\bin\Debug\Array total.exe.config
+C:\Users\kerem\source\repos\Array total\Array total\bin\Debug\Array total.exe
+C:\Users\kerem\source\repos\Array total\Array total\bin\Debug\Array total.pdb
+C:\Users\kerem\source\repos\Array total\Array total\obj\Debug\Array total.csproj.AssemblyReference.cache
+C:\Users\kerem\source\repos\Array total\Array total\obj\Debug\Array total.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\Array total\Array total\obj\Debug\Array total.exe
+C:\Users\kerem\source\repos\Array total\Array total\obj\Debug\Array total.pdb
