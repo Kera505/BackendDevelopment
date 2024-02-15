@@ -1,5 +1,4 @@
-![front](https://i.gifer.com/9kA5.gif)
-
+![alt text](9kA5.gif)
 
 # Journey of Learning the C# Programming Language
 
