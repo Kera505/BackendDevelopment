@@ -1,0 +1,7 @@
+C:\Users\kerem\source\repos\Objects\Objects\bin\Debug\Objects.exe.config
+C:\Users\kerem\source\repos\Objects\Objects\bin\Debug\Objects.exe
+C:\Users\kerem\source\repos\Objects\Objects\bin\Debug\Objects.pdb
+C:\Users\kerem\source\repos\Objects\Objects\obj\Debug\Objects.csproj.AssemblyReference.cache
+C:\Users\kerem\source\repos\Objects\Objects\obj\Debug\Objects.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\Objects\Objects\obj\Debug\Objects.exe
+C:\Users\kerem\source\repos\Objects\Objects\obj\Debug\Objects.pdb
