@@ -1,0 +1,7 @@
+C:\Users\kerem\source\repos\C# TYPES\C# TYPES\bin\Debug\C# TYPES.exe.config
+C:\Users\kerem\source\repos\C# TYPES\C# TYPES\bin\Debug\C# TYPES.exe
+C:\Users\kerem\source\repos\C# TYPES\C# TYPES\bin\Debug\C# TYPES.pdb
+C:\Users\kerem\source\repos\C# TYPES\C# TYPES\obj\Debug\C# TYPES.csproj.AssemblyReference.cache
+C:\Users\kerem\source\repos\C# TYPES\C# TYPES\obj\Debug\C# TYPES.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\C# TYPES\C# TYPES\obj\Debug\C# TYPES.exe
+C:\Users\kerem\source\repos\C# TYPES\C# TYPES\obj\Debug\C# TYPES.pdb
