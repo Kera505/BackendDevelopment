@@ -1,0 +1,7 @@
+C:\Users\kerem\source\repos\Method Calculator\Method Calculator\bin\Debug\Method Calculator.exe.config
+C:\Users\kerem\source\repos\Method Calculator\Method Calculator\bin\Debug\Method Calculator.exe
+C:\Users\kerem\source\repos\Method Calculator\Method Calculator\bin\Debug\Method Calculator.pdb
+C:\Users\kerem\source\repos\Method Calculator\Method Calculator\obj\Debug\Method Calculator.csproj.AssemblyReference.cache
+C:\Users\kerem\source\repos\Method Calculator\Method Calculator\obj\Debug\Method Calculator.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\Method Calculator\Method Calculator\obj\Debug\Method Calculator.exe
+C:\Users\kerem\source\repos\Method Calculator\Method Calculator\obj\Debug\Method Calculator.pdb

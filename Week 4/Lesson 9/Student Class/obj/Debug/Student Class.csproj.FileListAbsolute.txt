@@ -1,0 +1,7 @@
+C:\Users\kerem\source\repos\Student Class\Student Class\obj\Debug\Student Class.csproj.AssemblyReference.cache
+C:\Users\kerem\source\repos\Student Class\Student Class\obj\Debug\Student Class.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\Student Class\Student Class\bin\Debug\Student Class.exe.config
+C:\Users\kerem\source\repos\Student Class\Student Class\bin\Debug\Student Class.exe
+C:\Users\kerem\source\repos\Student Class\Student Class\bin\Debug\Student Class.pdb
+C:\Users\kerem\source\repos\Student Class\Student Class\obj\Debug\Student Class.exe
+C:\Users\kerem\source\repos\Student Class\Student Class\obj\Debug\Student Class.pdb
