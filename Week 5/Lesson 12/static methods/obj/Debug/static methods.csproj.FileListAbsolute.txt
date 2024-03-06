@@ -1,0 +1,7 @@
+C:\Users\kerem\source\repos\static methods\static methods\bin\Debug\static methods.exe.config
+C:\Users\kerem\source\repos\static methods\static methods\bin\Debug\static methods.exe
+C:\Users\kerem\source\repos\static methods\static methods\bin\Debug\static methods.pdb
+C:\Users\kerem\source\repos\static methods\static methods\obj\Debug\static methods.csproj.AssemblyReference.cache
+C:\Users\kerem\source\repos\static methods\static methods\obj\Debug\static methods.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\static methods\static methods\obj\Debug\static methods.exe
+C:\Users\kerem\source\repos\static methods\static methods\obj\Debug\static methods.pdb
